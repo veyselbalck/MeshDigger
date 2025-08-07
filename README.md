@@ -25,6 +25,12 @@ MeshDigger is a Unity project that makes it easy to perform dynamic mesh modific
 ---
 This project provides a basic infrastructure for mesh manipulation and visual effects.
 
+## Example Screenshots
+Below are example images from the project:
+
+![Example 1](media/digger.png)
+![Example 2](media/digger1.png)
+
 
 # MeshDigger
 
@@ -45,9 +51,12 @@ MeshDigger, Unity için mesh üzerinde dinamik değişiklikler ve delikler açma
 1. Unity projenize bu dosyaları ekleyin.
 2. Mesh üzerinde değişiklik yapmak için `GenerateMeshForWarping` scriptini bir GameObject'e ekleyin.
 3. Shader ve materyal dosyalarını mesh objenize uygulayın.
-
-
 ---
 Bu proje, mesh manipülasyonu ve görsel efektler için temel bir altyapı sunar.
 
+## Örnek Görseller
+Aşağıda projenin örnek görselleri bulunmaktadır:
+
+![Örnek 1](media/digger.png)
+![Örnek 2](media/digger1.png)
 
